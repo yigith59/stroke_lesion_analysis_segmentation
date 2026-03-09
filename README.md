@@ -16,7 +16,7 @@ It is designed to go beyond simple overlap metrics (Dice) by integrating spatial
 
 The pipeline is structured into 4 main analytical phases:
 
-###Phase 1: Morphological & Topological Analysis
+### Phase 1: Morphological & Topological Analysis
 * **Volumetric & Hemispheric Profiling:** Calculates precise lesion volumes (mL), center of mass (MNI coordinates), and laterality indices.
 * **Connectomics (Atlas-Based):** Maps lesions to the Juelich histological atlas to identify the frequency of specific regional damage (e.g., Insular Cortex, Motor Tracts).
 * **Vascular Territories:** Determines the dominant affected vascular supply (MCA, ACA, PCA).
