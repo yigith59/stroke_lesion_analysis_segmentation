@@ -8,10 +8,17 @@ This repository contains a comprehensive, 20-module automated pipeline for the *
 
 It is designed to go beyond simple overlap metrics (Dice) by integrating spatial topology, voxel-based lesion-symptom mapping (VLSM), connectomics, and publication-ready statistical reporting.
 
-**Preprint available on Zenodo:** [External Validation and Systematic Error Characterization...](https://zenodo.org/records/18802086)
 
 ---
-
+>  **CODE EMBARGO NOTICE** 
+> 
+> The full source code and analysis scripts associated with this repository are temporarily withheld. This project is currently undergoing peer review for an upcoming international medical imaging conference and subsequent journal publication.
+> 
+> To comply with strict anonymity requirements and academic embargo policies, the complete codebase will be made fully open-source and publicly available in this repository immediately upon the official acceptance of the manuscript.
+> 
+> In the meantime, you can read the preprint of our external validation and systematic error characterization on Zenodo:
+>  **[Preprint: DOI 10.5281/zenodo.18802086](https://zenodo.org/records/18802086)**
+--- 
 ## Features
 
 The pipeline is structured into 4 main analytical phases:
